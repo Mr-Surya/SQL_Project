@@ -9,11 +9,13 @@ Features:
 >Absentee tracking and report generation
 >Role-based access through SQL user permissions
 >No additional application layer – purely SQL-driven logic
+
 Core Components:
 Database Structure:
 >Employees table: Stores employee details.
 >Attendance table: Tracks check-in and check-out records.
 Roles table: Manages access levels.
+
 SQL Queries:
 >Procedures for marking attendance.
 >Views for generating attendance reports.
